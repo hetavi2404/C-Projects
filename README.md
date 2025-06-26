@@ -1,4 +1,5 @@
 Hotel Management System in C
+
 This is a console-based hotel booking system developed in C. It allows basic management of hotel rooms and customer interactions such as booking, check-in, check-out, and cancellations. It’s designed as a beginner-level project to demonstrate logic building and use of arrays, conditionals, and basic I/O operations.
 
 ---
@@ -57,6 +58,9 @@ Future Improvements:
 ---
 
 Developed By:
+
     Hetavi Makwana
+    
     B.Tech. in Computer Engineering (2nd year)
+    
     Completed certified courses in C, C++, HTML, and CSS via Royal Technosoft (Oracle-affiliated program)
