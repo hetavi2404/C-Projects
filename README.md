@@ -57,6 +57,6 @@ Future Improvements:
 ---
 
 Developed By:
-Hetavi Makwana
-B.Tech. in Computer Engineering (2nd year)
-Completed certified courses in C, C++, HTML, and CSS via Royal Technosoft (Oracle-affiliated program)
+    Hetavi Makwana
+    B.Tech. in Computer Engineering (2nd year)
+    Completed certified courses in C, C++, HTML, and CSS via Royal Technosoft (Oracle-affiliated program)
